@@ -2,7 +2,7 @@
   "title": "aplikasi koperasi kampus",
   "description": "Transforms uploaded design files into interactive, user-friendly web applications to streamline development and enhance user engagement.",
   "robots": {
-    "index": false
+    "index": true
   },
   "accessibility": {
     "addBypassLinks": false,
